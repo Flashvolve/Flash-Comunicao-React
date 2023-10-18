@@ -1,0 +1,25 @@
+.botao-menu-container {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+}
+.botao-menu-botao-menu {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.botao-menu-image {
+  width: 35px;
+  object-fit: cover;
+}
+.botao-menu-text {
+  font-family: "Fivo Sans Medium";
+}
+
+

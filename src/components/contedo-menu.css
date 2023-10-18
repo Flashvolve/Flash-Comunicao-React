@@ -1,0 +1,175 @@
+.contedo-menu-contedo {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contedo-menu-container {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+}
+.contedo-menu-botao-menu {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image {
+  width: 35px;
+  object-fit: cover;
+}
+.contedo-menu-text {
+  font-family: "Fivo Sans Medium";
+}
+.contedo-menu-container1 {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+}
+.contedo-menu-botao-menu1 {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image1 {
+  width: 35px;
+  object-fit: cover;
+}
+.contedo-menu-container2 {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  padding-left: 10px;
+}
+.contedo-menu-botao-menu2 {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image2 {
+  width: 30px;
+  object-fit: cover;
+  margin-left: 4px;
+  margin-right: 1px;
+}
+.contedo-menu-container3 {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+}
+.contedo-menu-botao-menu3 {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image3 {
+  width: 35px;
+  object-fit: cover;
+}
+.contedo-menu-container4 {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+}
+.contedo-menu-botao-menu4 {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image4 {
+  width: 35px;
+  object-fit: cover;
+}
+.contedo-menu-container5 {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+}
+.contedo-menu-botao-menu5 {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image5 {
+  width: 35px;
+  object-fit: cover;
+}
+.contedo-menu-container6 {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  padding-left: 10px;
+}
+.contedo-menu-botao-menu6 {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image6 {
+  width: 35px;
+  object-fit: cover;
+}
+.contedo-menu-container7 {
+  width: 100%;
+  border: none;
+  display: flex;
+  padding: 10px;
+  position: relative;
+}
+.contedo-menu-botao-menu7 {
+  width: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.contedo-menu-image7 {
+  width: 35px;
+  object-fit: cover;
+}

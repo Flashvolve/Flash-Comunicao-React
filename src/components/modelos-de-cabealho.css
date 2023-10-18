@@ -1,0 +1,501 @@
+.modelos-de-cabealho-modelos-de-cabealho {
+  gap: 50px;
+  flex: 0 0 auto;
+  width: calc(100% - 300px);
+  height: 100vh;
+  display: flex;
+  padding: 40px;
+  position: relative;
+  align-items: flex-start;
+  margin-left: 300px;
+  flex-direction: column;
+}
+.modelos-de-cabealho-header1 {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.10);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  background-color: var(--dl-color-gray-black);
+}
+.modelos-de-cabealho-image {
+  height: 22px;
+}
+.modelos-de-cabealho-nav {
+  display: flex;
+}
+.modelos-de-cabealho-nav1 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.modelos-de-cabealho-text {
+  color: var(--dl-color-gray-white);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+}
+.modelos-de-cabealho-text:hover {
+  color: #ffcf00;
+}
+.modelos-de-cabealho-text1 {
+  color: var(--dl-color-gray-white);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  margin-left: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-text1:hover {
+  color: #fccf00;
+}
+.modelos-de-cabealho-text2 {
+  color: var(--dl-color-gray-white);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  margin-left: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-text2:hover {
+  color: #fccf00;
+}
+.modelos-de-cabealho-btn-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.modelos-de-cabealho-login {
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  border-width: 0px;
+  background-color: #fccf00;
+}
+.modelos-de-cabealho-login:hover {
+  background-color: var(--dl-color-gray-white);
+}
+.modelos-de-cabealho-burger-menu {
+  display: none;
+}
+.modelos-de-cabealho-image1 {
+  width: 25px;
+  height: 25px;
+}
+.modelos-de-cabealho-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.modelos-de-cabealho-nav2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.modelos-de-cabealho-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.modelos-de-cabealho-image2 {
+  height: 2rem;
+}
+.modelos-de-cabealho-menu-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modelos-de-cabealho-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.modelos-de-cabealho-icon02 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.modelos-de-cabealho-header2 {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.10);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  background-color: #fccf00;
+}
+.modelos-de-cabealho-image3 {
+  height: 26px;
+}
+.modelos-de-cabealho-nav3 {
+  display: flex;
+}
+.modelos-de-cabealho-nav4 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.modelos-de-cabealho-text3 {
+  color: var(--dl-color-gray-black);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+}
+.modelos-de-cabealho-text3:hover {
+  color: var(--dl-color-gray-white);
+}
+.modelos-de-cabealho-text4 {
+  color: var(--dl-color-gray-black);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  margin-left: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-text4:hover {
+  color: var(--dl-color-gray-white);
+}
+.modelos-de-cabealho-text5 {
+  color: var(--dl-color-gray-black);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  margin-left: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-text5:hover {
+  color: var(--dl-color-gray-white);
+}
+.modelos-de-cabealho-btn-group1 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.modelos-de-cabealho-login1 {
+  color: var(--dl-color-gray-white);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  border-width: 0px;
+  background-color: var(--dl-color-gray-black);
+}
+.modelos-de-cabealho-login1:hover {
+  color: var(--dl-color-gray-black);
+  background-color: var(--dl-color-gray-white);
+}
+.modelos-de-cabealho-burger-menu1 {
+  display: none;
+}
+.modelos-de-cabealho-image4 {
+  width: 25px;
+  height: 25px;
+}
+.modelos-de-cabealho-mobile-menu1 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.modelos-de-cabealho-nav5 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.modelos-de-cabealho-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.modelos-de-cabealho-image5 {
+  height: 2rem;
+}
+.modelos-de-cabealho-menu-close1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modelos-de-cabealho-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.modelos-de-cabealho-icon10 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-icon12 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-icon14 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.modelos-de-cabealho-header3 {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.10);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  background-color: var(--dl-color-gray-white);
+}
+.modelos-de-cabealho-image6 {
+  height: 26px;
+}
+.modelos-de-cabealho-nav6 {
+  display: flex;
+}
+.modelos-de-cabealho-nav7 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.modelos-de-cabealho-text6 {
+  color: var(--dl-color-gray-black);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+}
+.modelos-de-cabealho-text6:hover {
+  color: #fccf00;
+}
+.modelos-de-cabealho-text7 {
+  color: var(--dl-color-gray-black);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  margin-left: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-text7:hover {
+  color: #fccf00;
+}
+.modelos-de-cabealho-text8 {
+  color: var(--dl-color-gray-black);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  margin-left: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-text8:hover {
+  color: #fccf00;
+}
+.modelos-de-cabealho-btn-group2 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.modelos-de-cabealho-login2 {
+  color: var(--dl-color-gray-black);
+  transition: 0.3s;
+  font-family: "Fivo Sans Medium";
+  border-width: 0px;
+  background-color: #fccf00;
+}
+.modelos-de-cabealho-login2:hover {
+  color: #fccf00;
+  background-color: var(--dl-color-gray-black);
+}
+.modelos-de-cabealho-burger-menu2 {
+  display: none;
+}
+.modelos-de-cabealho-image7 {
+  width: 25px;
+  height: 25px;
+}
+.modelos-de-cabealho-mobile-menu2 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.modelos-de-cabealho-nav8 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.modelos-de-cabealho-container2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.modelos-de-cabealho-image8 {
+  height: 2rem;
+}
+.modelos-de-cabealho-menu-close2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modelos-de-cabealho-icon16 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.modelos-de-cabealho-icon18 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-icon20 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.modelos-de-cabealho-icon22 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+
+@media(max-width: 767px) {
+  .modelos-de-cabealho-header1 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .modelos-de-cabealho-nav {
+    display: none;
+  }
+  .modelos-de-cabealho-nav1 {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .modelos-de-cabealho-text {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-text1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-text2 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-btn-group {
+    display: none;
+  }
+  .modelos-de-cabealho-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modelos-de-cabealho-header2 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .modelos-de-cabealho-nav3 {
+    display: none;
+  }
+  .modelos-de-cabealho-nav4 {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .modelos-de-cabealho-text3 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-text4 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-text5 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-btn-group1 {
+    display: none;
+  }
+  .modelos-de-cabealho-burger-menu1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modelos-de-cabealho-header3 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .modelos-de-cabealho-nav6 {
+    display: none;
+  }
+  .modelos-de-cabealho-nav7 {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .modelos-de-cabealho-text6 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-text7 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-text8 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-btn-group2 {
+    display: none;
+  }
+  .modelos-de-cabealho-burger-menu2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media(max-width: 479px) {
+  .modelos-de-cabealho-header1 {
+    padding: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-mobile-menu {
+    padding: 16px;
+  }
+  .modelos-de-cabealho-header2 {
+    padding: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-mobile-menu1 {
+    padding: 16px;
+  }
+  .modelos-de-cabealho-header3 {
+    padding: var(--dl-space-space-unit);
+  }
+  .modelos-de-cabealho-mobile-menu2 {
+    padding: 16px;
+  }
+}

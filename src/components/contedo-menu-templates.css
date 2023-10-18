@@ -1,0 +1,9 @@
+.contedo-menu-templates-contedo {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}

@@ -1,0 +1,98 @@
+.recuperar-senha-container {
+  gap: 20px;
+  width: 100%;
+  display: flex;
+  padding: 40px;
+  position: relative;
+  max-width: 450px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.10);
+  align-items: flex-start;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-white);
+}
+.recuperar-senha-logo {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.recuperar-senha-image {
+  width: 100%;
+  object-fit: cover;
+  margin-left: -10px;
+}
+.recuperar-senha-recuperacao {
+  gap: 30px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.recuperar-senha-text {
+  color: var(--dl-color-gray-black);
+  font-size: 30px;
+  font-family: Fivo Sans Heavy;
+}
+.recuperar-senha-text1 {
+  color: #737373;
+  font-family: Fivo Sans Medium;
+}
+.recuperar-senha-senha {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.recuperar-senha-text2 {
+  color: rgb(220, 15, 55);
+  font-family: Fivo Sans Heavy;
+}
+.recuperar-senha-textinput {
+  width: 100%;
+  display: flex;
+  align-self: flex-start;
+  border-color: #737373;
+  justify-content: flex-start;
+}
+.recuperar-senha-botao {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: #dc0f37;
+}
+.recuperar-senha-botao:active {
+  background-color: #3aaa9b;
+}
+.recuperar-senha-text3 {
+  color: var(--dl-color-gray-white);
+  font-size: 18px;
+  align-self: center;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Fivo Sans Medium;
+}
+.recuperar-senha-text3:active {
+  color: var(--dl-color-gray-white);
+}
+.recuperar-senha-root-class-name {
+  display: none;
+}
+@media(max-width: 957px) {
+  .recuperar-senha-root-class-name {
+    display: none;
+  }
+}
+@media(max-width: 479px) {
+  .recuperar-senha-text {
+    font-size: 27px;
+  }
+}
